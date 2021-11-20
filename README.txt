@@ -1,2 +1,5 @@
-Import the SVHN data set, then run the code as it is to get the plots with the current configurations. To check if our backpropagation implementation is correct,
-uncomment the backprop_check method. You will see the different plots/accuracy as it is.
+#### Street Number Classification with Backpropagation (CSE 151B PA 2) ####
+- Street House View Dataset 
+- Backpropagation
+- Multi-layer Neural Network
+- Regularization
